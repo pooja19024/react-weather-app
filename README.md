@@ -21,7 +21,8 @@ A simple and responsive weather application built using React that fetches real-
 ---
 
 ## 📸 Screenshot
-(Add your screenshot here later)
+<img width="662" height="780" alt="image" src="https://github.com/user-attachments/assets/8fd40603-4c0c-4c8e-9e86-641508bd28bf" />
+
 
 ---
 
